@@ -4,8 +4,7 @@ private:
     stack<int> out;
     
 public:
-    MyQueue() {
-        
+    MyQueue() {        
     }
     
     void push(int x) {
